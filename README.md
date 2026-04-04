@@ -1,30 +1,30 @@
-## 👋 About Me
+##  About Me
 
 Hi, I'm **Husnain Tayab** — a FinTech undergraduate and aspiring **Data Scientist** passionate about turning data into meaningful insights.
 
 I enjoy learning by building real-world projects that combine **data, finance, and technology**. My current focus is developing strong foundations in data analysis, visualization, and modern web technologies while continuously improving problem-solving skills.
 
-### 💻 Skills & Tools
+###  Skills & Tools
 
 * **Programming:** Python, C++
 * **Data:** Pandas, Data Visualization
 * **Web Development:** HTML, CSS, JavaScript, React
 * **Learning Focus:** Data Analysis, Financial Technology, Project-Based Learning
 
-### 🚀 Current Goals
+### Current Goals
 
 * Strengthen data analysis and visualization skills
 * Build practical data science projects
 * Explore fintech applications using data
 * Grow toward becoming a professional Data Analyst / Data Scientist
 
-### 📚 Philosophy
+### Philosophy
 
 I believe the best way to learn technology is by **building, experimenting, and improving consistently**.
 
 ---
 
-⭐ *Always learning. Always building.*
+ *Always learning. Always building.*
 
 
 
