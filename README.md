@@ -1,6 +1,6 @@
 ##  About Me
 
-Hi, I'm **Husnain Tayab** — a FinTech undergraduate and aspiring **Data Scientist** passionate about turning data into meaningful insights.
+Hi, I'm **Husnain Tayab** a FinTech undergraduate and aspiring **Data Scientist** passionate about turning data into meaningful insights.
 
 I enjoy learning by building real-world projects that combine **data, finance, and technology**. My current focus is developing strong foundations in data analysis, visualization, and modern web technologies while continuously improving problem-solving skills.
 
