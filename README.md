@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Husnain Tayab a FinTech undergraduate and aspiring Data Scientist passionate about turning data into meaningful insights.<br><br>I enjoy learning by building real-world projects that combine data, finance, and technology. My current focus is developing strong foundations in data analysis, visualization, and modern web technologies while continuously improving problem-solving skills.<br>Skills & Tools<br><br>    Programming: Python, C++<br>    Data: Pandas, Data Visualization<br>    Web Development: HTML, CSS, JavaScript, React<br>    Learning Focus: Data Analysis, Financial Technology, Project-Based Learning<br><br>Current Goals<br>Strengthen data analysis and visualization skills<br>Build practical data science projects<br>Explore fintech applications using data<br>Grow toward becoming a professional Data Analyst / Data Scientis
 
 
@@ -12,12 +12,12 @@ Hi, I'm Husnain Tayab a FinTech undergraduate and aspiring Data Scientist passio
 ![](https://streak-stats.demolab.com/?user=husnaincodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=husnaincodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+https://github.com/husnaincodes/Python-Projects
 ---
 [![](https://komarev.com/ghpvc/?username=husnaincodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
