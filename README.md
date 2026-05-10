@@ -17,7 +17,9 @@ Hi, I'm Husnain Tayab a FinTech undergraduate and aspiring Data Scientist passio
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=husnaincodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-https://github.com/husnaincodes/Python-Projects
+Python-Projects
+Data visualization
+Html practice projects
 ---
 [![](https://komarev.com/ghpvc/?username=husnaincodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
