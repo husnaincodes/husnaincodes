@@ -133,9 +133,7 @@ class HusnainTayab:
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=husnaincodes&theme=dark&hide_border=false" alt="GitHub Streak" />
 
@@ -170,10 +168,6 @@ class HusnainTayab:
 <a href="https://husnaincodes-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=husnaincodes&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
