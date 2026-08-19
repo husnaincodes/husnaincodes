@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=220&section=header&text=Husnain%20Tayab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FinTech%20Engineer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=220&section=header&text=Husnain%20Tayab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FinTech%20Engineer%20%7C%20Cloud%20Computing%20%26%20DevOps%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://husnaincodes-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Building+AI-powered+products+%26+clean+web+apps;FinTech+undergrad+%40+ITU+Lahore;Python+%2B+JavaScript+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Exploring+Cloud+Computing+%26+DevOps;Building+AI-powered+products+%26+clean+web+apps;FinTech+undergrad+%40+ITU+Lahore;Python+%2B+JavaScript+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 class HusnainTayab:
     def __init__(self):
         self.role = "FinTech Undergraduate @ ITU Lahore"
-        self.focus = ["Data Science", "AI Products", "Modern Web Apps"]
+        self.focus = ["Data Science", "AI Products", "Cloud Computing & DevOps"]
         self.currently_learning = "Data Analysis, Visualization & Financial Technology"
         self.philosophy = "Learn by building real-world projects."
 
@@ -74,6 +74,21 @@ class HusnainTayab:
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=husnaincodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnaincodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=husnaincodes&theme=tokyonight&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=husnaincodes&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+</div>
 
 ---
 
@@ -105,10 +120,10 @@ class HusnainTayab:
 
 ---
 
-### 🤝 Volunteer Experience
+### 🤝 Community Involvement
 
-- **Volunteer Social Worker** — *Alkhidmat Foundation* — supporting on-ground community relief, education & health initiatives *(Ongoing)*
-- **Fundraising Volunteer** — *The Citizen Foundation (TCF)* — helping expand access to education for underprivileged children *(Ongoing)*
+- 🌐 **Attendee** — *GDG Lahore (Google Developer Group)* — attended developer community events covering web, AI & cloud technologies
+- ☁️ **Attendee** — *AWS (Amazon Web Services) Community Event* — attended sessions on Cloud Computing & DevOps practices
 
 ---
 
@@ -117,6 +132,7 @@ class HusnainTayab:
 - [ ] Strengthen data analysis & visualization skills
 - [ ] Ship practical data science projects end-to-end
 - [ ] Explore fintech applications powered by data
+- [ ] Deepen hands-on knowledge of Cloud Computing & DevOps practices
 - [ ] Grow toward a professional Data Analyst / Data Scientist role
 
 ---
@@ -134,12 +150,3 @@ class HusnainTayab:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=100&section=footer" width="100%"/>
 
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=husnaincodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
