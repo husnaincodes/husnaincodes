@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=220&section=header&text=Husnain%20Tayab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FinTech%20Engineer%20%7C%20Cloud%20Computing%20%26%20DevOps%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=220&section=header&text=Husnain%20Tayab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<a href="https://husnaincodes-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Exploring+Cloud+Computing+%26+DevOps;Building+AI-powered+products+%26+clean+web+apps;FinTech+undergrad+%40+ITU+Lahore;Python+%2B+JavaScript+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<h2>FinTech Engineer | Cloud Computing & DevOps | Aspiring Data Scientist</h2>
 
+<p>
+  <a href="https://husnaincodes-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+</div>
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://husnaincodes-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnaintayab/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnaintayab47@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/husnaincodes?style=for-the-badge&color=2563eb&labelColor=020617)](https://github.com/husnaincodes)
+
 
 </div>
 
@@ -33,7 +38,7 @@ class HusnainTayab:
 
 - 🔭 I'm currently building projects that combine **data, finance, and technology**
 - 🌱 Strengthening my foundations in **data analysis, visualization & AI workflows**
-- 🎯 Long-term goal: becoming a professional **Data Analyst / Data Scientist**
+- 🎯 Long-term goal: becoming a professional **Data Analyst / Cloud Computing**
 - 💬 Ask me about **Python automation, fintech tooling, or clean UI engineering**
 - ⚡ Fun fact: I care as much about how software *feels* as how it *works*
 
@@ -74,19 +79,7 @@ class HusnainTayab:
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=husnaincodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb&icon_color=2563eb" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnaincodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563eb" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=husnaincodes&theme=tokyonight&hide_border=true&background=0D1117&ring=2563eb&fire=2563eb" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=husnaincodes&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -120,7 +113,7 @@ class HusnainTayab:
 
 ---
 
-### 🤝 Community Involvement
+###  Community Involvement
 
 - 🌐 **Attendee** — *GDG Lahore (Google Developer Group)* — attended developer community events covering web, AI & cloud technologies
 - ☁️ **Attendee** — *AWS (Amazon Web Services) Community Event* — attended sessions on Cloud Computing & DevOps practices
@@ -136,17 +129,54 @@ class HusnainTayab:
 - [ ] Grow toward a professional Data Analyst / Data Scientist role
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-### 📫 Let's Connect
+<img src="https://github-readme-stats.shion.dev/api?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
-[![LinkedIn](https://img.shields.io/badge/-husnain--tayab-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/husnaintayab/)
-[![Gmail](https://img.shields.io/badge/-husnaintayab47%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:husnaintayab47@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-020617?style=flat-square&logo=vercel&logoColor=white)](https://husnaincodes-portfolio.vercel.app/)
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=husnaincodes&color=2563eb&style=flat-square&label=Profile+Views" alt="profile views"/>
+<img src="https://streak-stats.demolab.com/?user=husnaincodes&theme=dark&hide_border=false" alt="GitHub Streak" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=husnaincodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+<h2 align="center">💬 Random Dev Quote</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/husnaintayab/">
+  <img src="https://img.shields.io/badge/LinkedIn-husnain--tayab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:husnaintayab47@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-husnaintayab47-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://husnaincodes-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=husnaincodes&color=2563eb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
