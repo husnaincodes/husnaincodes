@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=220&section=header&text=Husnain%20Tayab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<h2>FinTech Engineer | Cloud Computing & DevOps | Aspiring Data Scientist</h2>
+<h2>FinTech Engineer | Cloud Computing & DevOps | Aspiring Data Analytics</h2>
 
 <p>
   <a href="https://husnaincodes-portfolio.vercel.app/">
